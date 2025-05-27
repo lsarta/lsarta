@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning how to us AI to analyze large data sets to solve problems in the real estate industry
 - 💞️ I’m looking to collaborate on hackathons in SF
 - 📫 You can email me at 🍓🍓🍓@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I can lick my elbow
+
 
 <!---
 lsarta/lsarta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
